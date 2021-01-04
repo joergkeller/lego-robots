@@ -3,6 +3,10 @@ Adapter-Platten und Code für Lego Roboter mit Arduino.
 
 ## 3D-Prints
 * Lego-Adapter für Gearbox TT DC Motor
+* Case für Sparkfun Qwiik Motor Driver
+
+## Control Code
+* Control 2 motors with Joystick using Adafruit QT Py (M0)
 
 # Ideen
 
